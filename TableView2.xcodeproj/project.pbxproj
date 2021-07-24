@@ -13,6 +13,7 @@
 		ACBC96BC26AC47A70048C6CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACBC96BA26AC47A70048C6CC /* Main.storyboard */; };
 		ACBC96BE26AC47A80048C6CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACBC96BD26AC47A80048C6CC /* Assets.xcassets */; };
 		ACBC96C126AC47A80048C6CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACBC96BF26AC47A80048C6CC /* LaunchScreen.storyboard */; };
+		ACBC96C926AC503E0048C6CC /* TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBC96C826AC503E0048C6CC /* TableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ACBC96BD26AC47A80048C6CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACBC96C026AC47A80048C6CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACBC96C226AC47A80048C6CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACBC96C826AC503E0048C6CC /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ACBC96B426AC47A70048C6CC /* AppDelegate.swift */,
 				ACBC96B626AC47A70048C6CC /* SceneDelegate.swift */,
 				ACBC96B826AC47A70048C6CC /* ViewController.swift */,
+				ACBC96C826AC503E0048C6CC /* TableCell.swift */,
 				ACBC96BA26AC47A70048C6CC /* Main.storyboard */,
 				ACBC96BD26AC47A80048C6CC /* Assets.xcassets */,
 				ACBC96BF26AC47A80048C6CC /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				ACBC96B926AC47A70048C6CC /* ViewController.swift in Sources */,
 				ACBC96B526AC47A70048C6CC /* AppDelegate.swift in Sources */,
+				ACBC96C926AC503E0048C6CC /* TableCell.swift in Sources */,
 				ACBC96B726AC47A70048C6CC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
